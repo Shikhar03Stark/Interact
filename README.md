@@ -28,6 +28,9 @@ Open localhost/phpmyadmin then go to SQL sub-section then copy this code:
     
 ==============
 
+Upload the files in htdocs from the 'Website Files' to 'Interact' folder.
+Then Open link in browser: localhost/Interact/
+
 I used Prepared Statements to curb SQL Injection 
 
 I sanitized and Validated each and every field input from User.
