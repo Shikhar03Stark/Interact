@@ -40,3 +40,5 @@ Hence the passwords are not comprehendable in DB.
 
 Users can Create a Public Post
 After a secure Login.
+
+The Website's content changes as per the login status of user (logged in/ logged out).
